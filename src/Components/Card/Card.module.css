@@ -1,0 +1,22 @@
+.cardBox {
+  position: relative;
+  padding: 10px;
+  background: #000;
+  border-radius: 10px;
+}
+.title {
+  position: absolute;
+  font-size: 25px;
+  font-weight: 600;
+  color: #fff;
+  top: 10px;
+  left: 10px;
+}
+.subtitle {
+  position: absolute;
+  font-size: 25px;
+  font-weight: 600;
+  color: #fff;
+  bottom: 10px;
+  right: 10px;
+}
